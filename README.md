@@ -133,3 +133,9 @@ Steps:-
 External Links
 - [Using Netlify Functions with Gatsby](https://joshwcomeau.com/gatsby/using-netlify-functions-with-gatsby/)
 - [Watch video Announcing Netlify Dev](https://www.youtube.com/watch?v=RL_gtVZ_79Q&feature=youtu.be&t=1376)
+
+## Online Lectures
+- [Link1](https://www.youtube.com/watch?v=8PxEZjYUKpc&ab_channel=PanacloudServerlessSaaSTraining)
+- [Link2](https://www.facebook.com/zeeshanhanif/videos/10224657363006365/)
+- [Link3](https://www.youtube.com/watch?v=uMDyvor_k9k&ab_channel=PanacloudServerlessSaaSTraininginUrdu)
+- [Link4](https://www.facebook.com/zeeshanhanif/videos/10224666332310592/)
